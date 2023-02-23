@@ -8,6 +8,7 @@ I'm a full-stack developer with a passion for AI and Software Engineering. Const
 
 - Email:  nelson3chege@gmail.com
 - Linkedin: https://www.linkedin.com/in/nelson-chege-380949213
+- twitter: https://twitter.com/Nelsonchege13?t=gNPMyX59oM0b_lWMtzefSA&s=09
 - Website:  https://nelson-g-portfolio.netlify.app/
 
 <!---
