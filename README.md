@@ -2,20 +2,13 @@
 
 ## about me
 
-I’m  nelson chege, a junior software developer interested in technology mostly in AI and blockchain technologies.
-
-i am curious and love learning how technology accually work from as basic as knowing how logic gates work to how to design large complex software project
-
-for now, im just grinding to get in one of the FAANG companies in the next five years 🙏
-
-my development stack currently include python(django , flask) , javascript(react.js and node.js) and java(springboot)
-
-any kind of metorship or advice would be highly appreciated 😊
+I'm a full-stack developer with a passion for AI and Software Engineering. Constantly seeking new ways to expand my knowledge and technical skills, I bring a well-rounded approach to creating innovative solutions. I thrive in a fast-paced environment and am driven to make a positive impact on people's lives through my work.
 
 ## 📫 How to reach me
 
-nelson3chege@gmail.com
-
+- Email:  nelson3chege@gmail.com
+- Linkedin: https://www.linkedin.com/in/nelson-chege-380949213
+- Website:  https://nelson-g-portfolio.netlify.app/
 
 <!---
 nelsonchege/nelsonchege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
