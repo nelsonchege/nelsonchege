@@ -5,7 +5,7 @@ Freelance developer crafting innovative tech solutions. Founder of VTG Group. Sp
 ## 📫 How to reach me
 
 - Email:  nelson3chege@gmail.com
-- Website:  https://g-portfolio.vercel.app/
+- Website:  https://nelsonnjino.vercel.app/
 
 <!---
 nelsonchege/nelsonchege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
